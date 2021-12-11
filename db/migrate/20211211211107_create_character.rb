@@ -4,6 +4,7 @@ class CreateCharacter < ActiveRecord::Migration[6.1]
       t.string :name
       t.string :desciption
       t.string :img_url
+      t.integer :vehicle_id
     end
   end
 end
