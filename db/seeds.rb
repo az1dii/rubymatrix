@@ -8,8 +8,8 @@
 
 
 Character.create([
-	{ name: "Neo", description: false },
-	{ name: "Trinity", description: false },
-	{ name: "Morpheus", description: false },
-	{ name: "Agent Smith", description: false },
+	{ name: "Neo", description: "Neo born as Thomas A. Anderson, also known as The One"},
+	{ name: "Trinity", description: "First Mate of the Nebuchadnezzar"},
+	{ name: "Morpheus", description: "Morpheus is the captain of the Nebuchadnezzar" },
+	{ name: "Agent Smith", description: "Agent" },
 ])
